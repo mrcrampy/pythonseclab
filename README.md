@@ -39,3 +39,5 @@ You should then be able to access the web interface at `http://localhost:8000/`.
 django.nV comes with a series of writeups for the vulnerabilities we've added to the code. Each tutorial comes with a description of the vuln, a hint to where to find it, and then the exact bug and how it could be remedied.
 
 You can access these tutorials within the app at `http://localhost:8000/taskManager/tutorials/`, or by clicking on the 'Tutorials' link in the top-right of the web interface.
+
+Adding some text here as a test.
